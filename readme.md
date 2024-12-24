@@ -1,10 +1,10 @@
 # Objectifs du Workshop :
 
-1- .Comprendre les principes fondamentaux de la programmation orientée objet (POO) en PHP.
+- Comprendre les principes fondamentaux de la programmation orientée objet (POO) en PHP.
 
-Apprendre à encapsuler les données à l'aide de classes et d'objets.
+- Apprendre à encapsuler les données à l'aide de classes et d'objets.
 
-Découvrir l'héritage pour réutiliser le code et étendre les fonctionnalités d'une classe.
+- Découvrir l'héritage pour réutiliser le code et étendre les fonctionnalités d'une classe.
 
 # Concepts de Base de la Programmation Orientée Objet
 ## 1. Classe et Objet :
