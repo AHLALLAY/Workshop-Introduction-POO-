@@ -11,4 +11,13 @@
             $this->type_utilisateur = $type_utilisateur;
         }
 
+        function getNom(){
+            return $this->nom;
+        }
+
+        function getPrenom(){
+            return $this->prenom;
+        }
+        
+        
     }
