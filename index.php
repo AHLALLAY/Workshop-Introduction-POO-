@@ -19,5 +19,19 @@
             return $this->prenom;
         }
         
+        function getType_utilisateur(){
+            return $this->type_utilisateur;
+        }
         
+        function afficherNomComplet(){
+            return "{$this->nom} {$this->prenom}";
+        }
+        
+        function changerNom($newName){
+            $this->nom = $newName;
+        }
+        
+        function changerPrenom($newPrenom){
+            $this->prenom = $newPrenom;
+        }
     }
